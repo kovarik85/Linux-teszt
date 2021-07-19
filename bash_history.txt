@@ -1,0 +1,2000 @@
+vim README.md 
+git log
+git checkout 640273807f9bac8af03575f82b788663d4b99927
+cat README.md 
+git checkout bug
+cat README.md 
+ls
+cat cool.cpp 
+git blame cool.cpp
+git log
+git log --graph
+cat README.md 
+git log
+git blame
+git blame cool.cpp
+git checkout LinusTorvalds2014 
+cat README.md 
+ls
+git log
+git checkout 5d6af56d58591917e4802d90874fdf0e4e57a8c7
+cat R
+cat README.md 
+git checkout reverse
+ls -a
+cat .gitignore
+git checkout LinusTorvalds2014 
+cat README.md 
+ls -a
+cat .gitignore 
+git checkout tree
+ls
+cat README.md 
+ls
+./outputclue.sh 
+vim nextclue_input.cpp 
+cat outputclue.sh 
+git merge tree code4life
+git merge tree origin/code4life
+./outputclue.sh 
+./outputclue.sh nextclue_input.cpp 
+vim nextclue_input.cpp 
+git merge outputclue.sh origin/code4life 
+vim outputclue.sh 
+vim nextclue_input.cpp 
+./outputclue.sh nextclue_input.cpp 
+git add
+git add .
+git commit -m "Javítva"
+git checkout mouse 
+cat README.md 
+ls
+cat remember 
+locate remember 
+ls
+cat LICENSE 
+cat README.md 
+git diff mouse bug -- remember
+git checkout Henry
+cat README.md 
+git tag Henrypoop && git tag -d Henry
+git checkout Henry
+cat README.md 
+git remote --help
+git remote add git@github.com:drami025/git-game.git
+cat README.md 
+git remote add updatefromhere git@github.com:drami025/git-game.git
+git pull updatefromhere master
+cat README.md 
+git remote --help
+git remote -v git@github.com:drami025/git-game.git
+git remote -v 
+npm init
+ls
+mkdir lambda_city
+cd lambda_
+cd lambda_city/
+code .
+node map.js
+node elso.html 
+git init
+git clone git@github.com:ZsRostas/Lambda-City.git
+ls
+cd Lambda-City/
+ls
+code map.js 
+git branch
+git checkout Map
+ls
+code map.js 
+git barnch --list
+git branch --list
+cd ~
+mkdir sitebuilding
+cd s
+cd sitebuilding/
+mkdir 07.06
+cd 07.06/
+touch elso.html
+code elso.html 
+cd Lambda-City/
+ls
+node map.js
+ls
+cd Lambda-City/
+ls
+node map.js
+ls
+node map.js
+npm init
+npm i table
+node map.js
+npm i readline-sync
+node map.js
+node generateword.js 
+node map.js
+node map.js
+cd ..
+cd Lambda-City/
+node map.js
+node proba.js
+cd ..
+cd lambda_
+cd lambda_city/
+node proba.js
+cd ..
+cd Lambda-City/
+node map.js
+npm init
+npm i table
+node map.js
+w
+node map.js
+node tankmozg.js 
+node map.js
+node justmovin.js 
+npm init
+npm i table
+node justmovin.js 
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+ls
+cd Lambda-City/
+ls
+code map.js 
+cd ~
+git clone https://github.com/git-game/git-game-v2.git
+ls
+cd git-game-v2/
+ls
+cat README.md 
+git ls-files
+git ls-files | wc -l
+git checkout 30
+ls
+cat README.md 
+git checkout main
+git branch --list
+git branch master 
+git checkout master
+ls
+cat R
+cat README.md 
+git ls -files --all
+git ls-files | [cat all these files] | wc -l
+git ls-files | [cat all] | wc -l
+git ls-files | xargs cat | wc -l
+git checkout 6865
+ls
+cat README.md 
+git checkout master 
+cat README.md 
+git ls-files | xargs wc -l
+cat README.md | wc -l
+git checkout 49
+cat README.md 
+git checkout master 
+cat README.md 
+git ls-files | xargs cloc
+wc -l $(git ls-files)
+git branch
+git branch --list
+cat README.md | wc -l
+git checkout 6914
+ls
+cat README.md 
+git chechout rrr
+git checkout rrr
+cat README.md 
+git checkout master 
+ls
+cd AllFiles/
+ls
+git ls-files
+cd ..
+cat README.md 
+git checkout 6861
+cat README.md 
+git show
+git log
+git show wc -l $(git ls-files)
+git show 16a28decee95df6d07def6cfdf32b3eee2c626c9
+git checkout snowden 
+ls
+cat README.md 
+git log
+git checkout jruel006
+git checkout John Dixon
+git checkout John_Dixon
+git checkout anon
+ls
+cat README.md 
+git describe
+ls
+return
+git describe return
+ls
+cat return
+git tag --list
+git checkout return
+ls
+cat README.md 
+git checkout pretty
+cat README.md 
+git log tree
+git log --tree
+git log
+git checkout 565be1090502fdafd21c6204b14d4f3022186c37
+cat README.md 
+git checkout pretty
+cat README.md 
+git log [3331d0b]
+git hash-object -w --stdin
+git hash-3331d0b -w --stdin
+git hash --help
+git --help
+git log --help
+cat README.md 
+ls tree
+ls
+git log --tree
+git log
+git log 565be1090502fdafd21c6204b14d4f3022186c37
+cat 565be1090502fdafd21c6204b14d4f3022186c37
+git checkout 565be1090502fdafd21c6204b14d4f3022186c37
+ls
+cat README.md 
+git checkout pretty
+cat README.md 
+git log --onlinne
+git log --online
+git log --pretty
+git log --help
+git show
+git show 565be1090502fdafd21c6204b14d4f3022186c37
+git show c7ba8f0.
+git log c7ba8f0.
+tree hash
+tree hash c7ba8f0.
+tree hash 3331d0b.
+git log 3331d0b.
+git log c7ba8f0.
+git log --pretty 3331d0b.
+git log --pretty=3331d0b.
+git log --pretty=.
+git log
+git log | grep 3331d0b.
+git log | grep-r 3331d0b.
+git log | --grep 3331d0b.
+git log | -grep 3331d0b.
+git log | -grep -r 3331d0b.
+git log | --grep -r 3331d0b.
+git log --pretty
+git log --pretty | grep 3331d0b.
+git log --pretty='%h %T %s' | grep 3331d0b.
+git checkout SIGPOLL
+ls
+cat README.md 
+ls
+git log
+git submodule
+cat README.md 
+git submodule status
+git submodule Bugs
+git submodule [--quiet] Bugs
+git submodule [--quiet] status Bugs
+git submodule [--quiet] status
+git submodule [--quiet] name
+git submodule [--quiet] name[Trees]
+git submodule [--quiet] add [Bugs]
+git submodule [--quiet] add -b Bugs]
+git submodule [--quiet] add -b 
+git status
+ls
+cat README.md 
+git submodule [--quiet] add -b Sand
+git submodule [--quiet] add -b Sandy
+git submodule [--quiet] update
+git submodule [--quiet] add [-b Sand]
+git submodule [--quiet] add [-b Sand
+git log
+la
+cd .git/
+ls
+cd ..
+cat README.md 
+git submodule sync
+git submodule status
+git submodule add -b Sand
+git diff
+git diff submodule
+git diff --cahced --submodule
+git diff --cached --submodule
+git diff --submodule
+git submodule init
+git submodule update
+git config
+git status
+git submodule sync
+cat submodule Bugs
+cd Bugs
+ls
+cat Clue.txt 
+cat README.md 
+cd Data-Structures/
+ls
+ls -a
+cd .
+ls
+ls -la
+cd ..
+git submodule status
+cd ..
+git submodule status
+git submodule add Sand
+git submodule add -b Sand
+git submodule [--quiet] add [-b Sand]
+cat README.md 
+git submodule --list
+git submodule 
+cd Java/
+ls
+cat README.md 
+git checkout history
+cd ..
+git checkout history
+cat README.md 
+git log
+cat README.md 
+git log '%h %T %s' | grep 'hint.edu'
+git log | grep 'hint.edu'
+git history
+git log history
+git --help
+it restore
+git restore
+git restore history
+ls
+cat README.md 
+git rev-list --branches history
+git grep 'hint.edu' $(git rev-list --branches history)
+git grep 'hint.edu' $(git rev-list --branches history) -- ':!README.md'
+git show f3910ecbeb5c2
+GIT CHECKOUT CHERRY
+git checkout cherry
+cat README.md 
+git 1
+git cherry-pick origin/arachnid
+ls
+cat consonants.txt 
+git cherry-pick origin/arachnid consonants.txt
+git cherry-pick origin/arachnid rev consonants.txt
+git cherry-pick origin/arachnid consonants.txt
+git cherry-pick origin/insect
+git merge consonants.txt
+git diff --consonants.txt --arachnid
+git diff -consonants.txt --arachnid
+git diff consonants.txt --arachnid
+git diff consonants.txt arachnid
+git diff consonants.txt origin/arachnid
+cd ~
+git reset
+ls
+git status
+git init
+$ git clone https://github.com/git-game/git-game-v2.git
+cd git-game-v2/
+git checkout root
+git checkout cherry
+git exit
+git status
+git cherry pick arachnid~4 insect~3
+cd ~
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+git update
+git update-ref
+git status
+és
+ls
+cd ..
+rm Lambda-City/
+rmdir Lambda-City/
+rmdir -r Lambda-City/
+sudo rmdir -r Lambda-City/
+sudo rmdir Lambda-City/
+sudo rm -r Lambda-City/
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+ls
+code map.js 
+cd tanker/
+touch map.js
+code map.js 
+node anim.js 
+cd ..
+cd ~
+cd Lambda-City/
+ls
+node playerInput.js 
+npm init
+npm i table
+node playerInput.js 
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+git update
+git pull git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+ls
+git checkout PlayerInput
+cd tanker/
+ls
+cd ..
+cd ~
+ls
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+ls
+git branch --list
+git checkout PlayerInput
+ls
+code playerInput.js 
+code map.js 
+node playerInput.js 
+node map.js 
+node playerInput.js 
+node map.js 
+git update
+git --help
+git log
+git merge
+git pull
+ls
+code PlayerInput.js 
+node PlayerInput.js 
+clear
+mv PlayerInput.js ~/Lambda-City/tanker/
+node PlayerInput.js 
+cd tanker/
+node PlayerInput.js 
+cd sitebuilding/
+mkdir 07.08
+cd 07.08/
+touch lista1.html
+code lista1.html 
+cd ~
+cd Lambda-City/
+ls
+cd tanker/
+node PlayerInput.js 
+cd Lambda-City/
+ls
+cd tanker
+ls
+node PlayerInput.js 
+cd Lambda-City/
+cd tanker/
+node PlayerInput.js 
+cd Lambda-City/tanker/
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+ls
+cd Lambda-City/
+git add ~/Lambda-City/tanker/PlayerInput.js 
+git status
+git add .
+git status
+netcat
+apt i netcat
+apt install netcat
+sudo apt install netcat
+netcat
+nc
+nc example.com 80
+nc
+nc example.com 80[B
+nc -l 8080
+nc
+nc  -l 5000
+clear
+nc -l 5000
+ifconfig
+nc localhost 5000
+nc 192.168.5.94 5000
+djwdjn
+nc 192.168.5.94 5000
+ewdfwf
+nc 192.168.5.100 5000
+wdwd
+nc  5000
+szeva
+nc 192.168.5.145 5000
+nc 192.168.5.104 5000
+szia Uram!
+nc 192.168.5.1 5000
+nc 192.168.5.104 5000
+nc 192.168.5.97 5000
+sudo nc 192.168.5.97 5000
+nc 192.168.5.97 5000
+clear
+nc 192.168.5.97 5000
+sudo nc 192.168.5.97 5000
+nc 192.168.5.97 5000
+nc 192.168.5.145 5000
+sudo nc 192.168.5.97 5000
+nc 192.168.5.97 5000
+nc 192.168.5.104 5000
+nc 192.168.5.97 5000
+nc 192.168.5.98 5000
+ifconfig
+touch valami.txt
+vim valami.txt 
+cat valami.txt | nc 192.168.5.145 5000
+git status
+cd Lambda-City/
+ls
+cd tanker/
+ls
+git status
+git add PlayerInput.js 
+git status
+git commit -m "Firing and turning"
+git push
+git remote add PlayerInput.js git@github.com:flowacademyhu/Lambda-City.git
+git push
+cd Lambda-City/
+git status
+cd ..
+git status
+cd Lambda-City/
+git pull
+mv ~/Lambda-City/tanker/PlayerInput.js ~/Lambda-City/tanker/Lambda-City/
+ls
+git add PlayerInput.js 
+git status
+git commit -m "Firing and turning"
+git push
+cd ..
+ls
+cd Lambda-City/
+node PlayerInput.js 
+cd Lambda-City/tanker/Lambda-City/
+ls
+node PlayerInput.js 
+node PlayerInput.js ű
+node PlayerInput.js 
+gti status
+git status
+git branch
+git branch PlayerInput
+git branch
+git checkout PlayerInput 
+node PlayerInput.js 
+node teszt.jsú
+node teszt.js
+cd Lambda-City/tanker/Lambda-City/
+node teszt.js 
+node interval.js
+cd Lambda-City/
+node interval.js
+npm i table
+node interval.js
+cd Lambda-City/tanker/Lambda-City/
+node teszt.js 
+node interval.js 
+node teszt.js 
+node PlayerInput.js 
+cd Lambda-City/
+node codewars.js 
+cd Lambda-City/
+node codewars.js 
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js 
+node PlayerInput.js ű
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js 
+cd ~
+cd lambda_prog/
+ls
+cd Projekt/
+node .
+code .
+cd ~
+cd Lambda
+cd tanker
+cd ..
+cd Lambda-City/tanker
+git pull git@github.com:flowacademyhu/Lambda-City.git
+ls
+cd Lambda-City/
+ls
+cd ..
+git merge
+cd Lambda-City/
+git branch list
+git status
+cd ..
+cd Lambda-City/
+git pull git@github.com:flowacademyhu/Lambda-City.git
+ls
+git branch
+git branch main
+git checkout main
+ls
+git pull
+cd ~
+cd P
+cd lambda_prog/
+cd Projekt/
+mkdir git
+cd git
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd L
+cd Lambda-City/
+ls
+node .
+node main.js 
+npm init
+npm i table
+node main.js 
+cd ~
+cd Asztal/
+cd ati\ tank/
+ls
+node hoesesIndex.js 
+npm i table
+node hoesesIndex.js 
+cd ~
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js 
+node PlayerInput.js ű
+node PlayerInput.js 
+cd Lambda-City/
+node PlayerInput.js 
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js 
+ls
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js 
+node codewars.js 
+cd Lambda-City/tanker/Lambda-City/
+node PlayerInput.js 
+git status
+git add firing.js 
+git status
+node PlayerInput.js 
+git status
+git add firing.js 
+git status
+git commit -m "firing"
+git push
+git pull
+git push
+git branch -b Kristof
+git status
+ls
+git stash 
+git status
+git rebase
+git status
+git push
+node teszt.js 
+ls
+node main.
+node teszt.js 
+npm install get-pixels-updated
+npm i readline-sync
+node teszt.js 
+node teszt2.js 
+node teszt.js 
+npm i chalk
+node teszt.js 
+cd Lambda-City/tanker/Lambda-City/
+ls
+node teszt.js 
+npm i terminal-kit
+node teszt.js 
+npm init
+npm install table
+npm install ascii-art
+npm audit fix
+node main.js 
+cd Lambda-City/tanker/Lambda-City/
+node teszt.js 
+git status
+git fetch
+git add firing.js 
+git status
+git commit -m "working firing"
+git push
+git branch
+vim firing.js 
+git merge firing.js
+git rebase firing.js
+git rebase
+git status
+git status cached
+git log
+git status
+git pull
+git status
+git restore
+git restore firing.js
+git status
+git add firing.js 
+gti status
+git status
+git status -cached
+git status
+git branch
+git pull
+git stash
+git status
+git pull
+git status
+git add teszt.js
+git stash
+git status
+git checkout .
+git status
+git pull
+rm package-lock.json 
+git pull
+git add firing.js 
+git commit
+git pull
+git push
+node teszt.js 
+node main.js
+node teszt.js 
+git pull
+git status
+node main.js 
+cd ~
+cd lambda_prog/Projekt/tankos/
+node main.js 
+npm i table
+node main.js 
+git pull
+cd ~
+cd Lambda-City/tanker/Lambda-City/
+git pull
+git status
+node firing.js 
+code firing.js 
+git add firing.js 
+git add player.js 
+git pull
+vim firing.js 
+node main.js 
+git status
+git restore
+git restore .
+git status
+git restore firing.js
+git restore player.js
+git status 
+git restore --staged
+git restore --staged .
+git status
+git restore .
+git status
+git pull
+git status
+node main.js 
+git pull
+node main.js 
+cd ..
+ls
+rm Lambda-City/
+rmdir Lambda-City/
+sudo rmdir Lambda-City/
+rmdir -r Lambda-City/
+cd Lambda-City/
+la
+ls
+cd ..
+rm -r Lambda-City/
+cd L
+cd Lambda-City/
+ls
+cd g
+cd .git/
+la
+ls
+cd ..
+cd ~
+cd Lambda-City/tanker/
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+node main.js 
+git pull
+node main.js 
+cd ..
+cd ~
+cd Lambda-City/tanker/
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+node main.js 
+code .
+node main.js 
+cd ~
+cd Lambda-City/tanker/
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+node main.js 
+code .
+node main.js 
+cd ~
+cd Lam
+cd Lambda-City/tanker/
+git init
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+code .
+node main.js 
+cd Lambda-City/tanker/Lambda-City/
+ls
+code .
+git status
+git add player.js 
+git status
+git pull
+git status
+git commit -m "already able to change direction only"
+git status
+git push
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+clear
+node main.js 
+clear
+node main.js 
+git status
+git add firing.js 
+git status
+git commit -m "dead"
+git push
+git fetch
+git push
+git pull
+git merge firing.js
+vim firing.js 
+git push
+node main.js 
+h
+node main.js 
+npm i mpg123
+node main.js 
+sudo apt install mpg123
+node main.js 
+node sound.js 
+mpg123 cica2.mp3 
+node sound.js 
+npm i mpg321
+node sound.js 
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+mpg123
+mpg123 cica.mp3 
+mpg123 cica.ogg
+mpg123 cica2.mp3 
+node main.js 
+mpg123 cica2.mp3 
+node main.js 
+node sound.js 
+mpg123 cica2.mp3 
+node sound.js 
+sudo apt install mpg321
+ps
+ps -ef
+kill 28187
+node sound.js ű
+node sound.js 
+node main.js 
+node sound.js 
+node main.js 
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+ls
+cd Lambda-City/tanker/Lambda-City/
+ls
+node map.js 
+node bricks.mp3 
+mpg321 bricks.mp3 
+clear
+node main.js 
+mpg321 -l man
+node main.js 
+mpg321 man
+mpg321 -l man
+node main.js 
+mpg321 -q man
+mpg321 -q 
+
+node main.js 
+mpg321 -q 
+mpg321 --help
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+git status
+git add *.mp3
+git status
+git status.js
+node main.js git restore
+git status
+git retsore --staged
+git restore --staged
+git status
+git add sound.js 
+git add sounds/
+git commit -m "sounds"
+git push
+git pull
+git push
+git commit -m "changes"
+git push
+git pull
+git push
+git status
+git stash
+git pull
+git push
+node main.js 
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+git show
+git pop
+git log
+git stash pop
+git show
+cd Lambda-City/tanker/Lambda-City/
+git stash pop
+node main.js 
+cd ..
+git clone git@github.com:flowacademyhu/Lambda-City.git
+ls
+ls -la
+git clone git@github.com:flowacademyhu/Lambda-City.git
+cd Lambda-City/
+code .
+node main.js
+npm i mpg321
+node main.js
+kill all
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+mpg321 stop man
+mpg321 --stop man
+mpg321 man
+mpg321 
+node main.js
+killall mpg321
+cat GAIN  command
+cat /usr/share/doc/mpg321/README.remote
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+killall mpg321
+node main.js
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+node sound.js 
+node main.js 
+cd Lambda-City/tanker/Lambda-City/
+node main.js 
+killall mpg321
+git status
+git add dead.mp3 
+git add hit.mp3 
+git commit -m "new sounds"
+git push
+git fetch
+git status
+git pull
+git commit -m "mentes"
+git add .
+git status
+git commit -m "mentes"
+git log
+git push origin a392aa6ead3adbc0a150f070e908cb500722c1a0:main
+git pull
+git add .
+git commit
+git push origin a392aa6ead3adbc0a150f070e908cb500722c1a0:main
+git pull
+git checkout a392aa6ead3adbc0a150f070e908cb500722c1a0ű
+git checkout a392aa6ead3adbc0a150f070e908cb500722c1a0
+git pull
+git branch
+git checkout main
+git rebase -i
+git rebase --abortű
+git rebase --abort
+git status
+cd ..
+cd ~
+cd lambda_prog/Projekt/
+git clone git@github.com:flowacademyhu/Lambda-City.git
+git status
+cd ..
+cd Projekt/
+ls
+cd Lambda-City/
+ls
+git status
+git add.
+git add .
+git commit -m "uj zenek"
+git push
+node main.js
+cd ~
+cd Lambda-City/tanker/Lambda-City/
+node main.js
+cd ~
+cd lambda_prog/Projekt/Lambda-City/
+ls
+node main.js 
+npm i table
+node main.js 
+npm i mpg321
+node menu.js 
+npm i terminal-kit
+node menu.js 
+npm i cfonts
+node menu.js 
+git status
+git pull
+git add .
+git commit -m "menu zene"
+git push
+git pull
+node main.js 
+node menu.js
+node main.js 
+node menu.js
+killall321
+killall 321
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+node main.js 
+killall mpg321
+node main.js 
+killall mpg321
+node main.js 
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+node main.js 
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+cd lambda_prog/Projekt/Lambda-City/
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+clear
+process.exit
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+git status
+git add .
+git commit -m "sound working"
+git push
+git pull
+git push
+htop
+git pull
+cd lambda_prog/Projekt/Lambda-City/
+ls
+git pull
+git branch
+git init
+git pull git@github.com:flowacademyhu/Lambda-City.git
+git fetch
+git status
+code .
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+git status
+git add .
+git commit -m "sound stops"
+goit push
+git push
+node menu.js
+cd lambda_prog/Projekt/Lambda-City/
+node menu.js
+killall mpg321
+node menu.js
+killall mpg321
+node menu.js
+git add .
+git commit -m "exit sound off"
+git push
+htop
+cd gyakorlat/
+git init
+git clone git@github.com:kovarik85/probaRepo.git
+cd probaRepo/
+ls
+cat README.md 
+q
+vim README.md 
+cat README.md 
+git status
+git add .
+git status
+git pull
+git commit -m "első mentésem"
+git pull
+vim README.md 
+git push
+git pull
+git status
+vim README.md 
+git add .
+git commit -m "merge után"
+git push
+vim README.md 
+git add .
+git commit -m "töröltem"
+git push
+git log
+git pull
+git status
+vim README.md 
+git pull
+git add .
+git status 
+git commit -m "most válik el"
+git push
+git pull
+vim README.md 
+git add .
+git commit -m "végső"
+git push
+touch new.txt
+git push
+ls
+git status
+git add .
+git commit -m "newfile"
+git push
+git checkout -b Kr
+git add .
+git status
+git push
+touch new2.txt
+git add .
+git commit -m "ide is egy új fájl"
+git push
+git push -u origin/Kr
+git push -u origin/ Kr
+git -u origin Kr
+git push -u origin Kr
+git status
+ls
+vim new.txt 
+vim new2.txt 
+git status
+git add new.txt 
+git status
+git commit -m "csak az new"
+git pull
+vim next.txt
+vim new.txt
+vim new2.txt 
+git status
+git add .
+git commit -m "new2"
+git pull
+vim new2.txt 
+git add .
+git commit -m "javítva"
+git push
+ls
+cd gyakorlat/
+ls
+cd ..
+mkdir otthoni
+cd otthoni/
+touch file1
+rm file1 
+touch file1.txt
+mv file1.txt file2.txt
+ls
+mv file2.txt file1.txt
+ls
+echo > "valami"
+cat file1.txt 
+echo > "valami" file1.txt 
+cat file1.txt 
+echo "valami" > file1.txt 
+cat file1.txt 
+cat < file1.txt > file2.txt
+ls
+cat file2.txt 
+cat valami 
+rm
+rm -a
+rm --help
+rm all
+rm -all
+rm --a
+rm --all
+rm valami 
+rm file1.txt 
+rm file2.txt 
+touch file1.txt
+echo "valami szöveg" > file1.txt 
+ls
+cat file1.txt 
+cat file1.txt  > file2.txt 
+ls
+cat file2.txt 
+mkdir ize
+touch ize/file3.txt
+ls
+cd ize/
+ls
+cat ~/otthoni/file1.txt  > file3.txt 
+cat file3.txt 
+cd ..
+ls
+cat file1.txt file2.txt > file3.txt
+ls
+cat file3.txt 
+stat
+stat file3.txt 
+ln alma > file3.txt 
+ln alma file3.txt 
+touch gyumolcs.txt
+echo gyumolcs.txt 
+echo > gyumolcs.txt 
+ls
+cat gyumolcs.txt 
+cat > gyumolcs.txt 
+cat gyumolcs.txt 
+cat >> gyumolcs.txt 
+cat gyumolcs.txt 
+cat gyumolcs.txt | sort
+cat gyumolcs.txt | sort | uniq
+cat >> gyumolcs.txt 
+cat gyumolcs.txt | sort | uniq
+cat gyumolcs.txt | sort
+vim gyumolcs.txt 
+cat gyumolcs.txt | sort | uniq
+cat >> gyumolcs.txt 
+cat gyumolcs.txt | sort | uniq
+vim gyumolcs.txt 
+cat gyumolcs.txt | sort | uniq
+cat gyumolcs.txt | sort
+cat gyumolcs.txt | sort | uniq | wc -l
+cat gyumolcs.txt | sort | wc -l
+touch tanulok.txt
+cat > tanulok.txt 
+cat tanulok.txt 
+cat tanulok.txt | -f2
+cat tanulok.txt | cut -f2 
+cat tanulok.txt | cut -d -f2 
+cat tanulok.txt | cut -d "" -f2 
+cat tanulok.txt | cut -f2 -d "" 
+cat tanulok.txt | cut -f2 -d 
+cat tanulok.txt | cut -c5-22
+cat tanulok.txt | cut -22
+cat tanulok.txt | cut -c22
+cat tanulok.txt | cut -c17-22
+cat tanulok.txt | cut -c5-22
+cat tanulok.txt | cut -c5-16
+cat tanulok.txt | cut -c5-14
+cat tanulok.txt | cut -c5-22
+cut -f2 < tanulok.txt 
+cut -f2 -d: tanulok.txt 
+cut -f2 -d : tanulok.txt 
+cat tanulok.txt | cut -d " " -f2 
+cat tanulok.txt | cut -d " " -f2-3 
+sort < gyumolcs.txt 
+sort -r gyumolcs.txt 
+ln gyumolcs.txt 
+ln fak.txt gyumolcs.txt 
+ln fak.txt >  gyumolcs.txt 
+ln fak.txt <  gyumolcs.txt 
+cat tanulok.txt | cut -d " " -f2 
+cat tanulok.txt | cut -d " " -f2-3 
+cat tanulok.txt | cut -d " " -f2-3 | rev
+pwd
+mkdir elso masodik harmadik
+ls
+rm elso masodik harmadik
+rmdir elso masodik harmadik
+ls
+mkdir -p elso/masodik/harmadik
+ls
+cd elso/
+ls
+cd masodik/
+ls
+cd harmadik/
+cd ~/otthoni/
+mkdir elso/masodik/harmadik
+ls
+rmdir elso/
+rmdir -r  elso/
+rm -r elso
+ls
+mkdir -p elso/masodik/harmadik
+ls
+ls tree
+lstree
+tree
+rm -r elso
+ls
+tre
+tree
+mkdir -p elso/masodik/harmadik
+rmdir elso/masodik/harmadik/
+tree
+rmdir elso/masodik/harmadik/
+rmdir elso/masodik
+rmdir elso
+tree
+mv ize másik
+tree
+mkdir egyik
+cp -P másik egyik
+tree
+cp -R másik egyik
+tree
+rm -r egyik
+mkdir egyik
+cp -R másik/file3.txt egyik
+tree
+rm -r egyik
+mkdir egyik
+cp -R másik/ egyik
+tree
+rm -r egyik
+cp -R másik/ . egyik
+mkdir egyik
+cp -R másik/ . egyik
+cp -R másik/. egyik
+tree
+rm -r egyik
+mkdir egyik
+cp -R másik/* egyik
+tree
+cd másik/
+touch fájl1.txt
+touch fájl2.txt
+touch fájl4.txt
+touch fájl5.txt
+cp -R másik/* egyik
+tree
+cd.. 
+cd ..
+tree
+cp -R másik/* egyik
+tree
+cp -R másik/* harmadik
+cp -R másik harmadik
+tree
+env
+cat .bash_history
+cat /.bash_history
+cat ~/.bash_history
+cat ~/otthoni/.bash_history
+cat //.bash_history
+cat root/.bash_history
+clear ~/.bash_history
+history
+clear history
+history | less
+/usr/bin/gcc -o main main.c
+ls /usr/bin/
+locate gcc
+locate gcc /usr/bin/
+echo $PATH
+/sbin/ifconfig 
+ifconfig
+vim /home/kovarik/.bashrc 
+vim .bashrc
+ls
+vim bash.txt
+ls
+rm bash.txt 
+ls
+cd ..
+vim .bashrc
+cd otthoni/
+claudius:~$ cat &
+cd ..
+cd bin/
+ls
+cd ~/otthoni/
+cat /proc/sys/kernel/pid_max
+ulimit -u
+ps
+nano&
+mcedit&
+vim&
+ps
+vim &
+ps
+fg 4
+ps
+fg 3
+ps
+vim&
+ps a
+w
+ps ax
+ps ax -f
+ps axf
+ps axu
+ps u
+ps au
+ps axu
+-ef
+ps -ef
+kill -9 3595
+ps -ef
+kill -l
+nano
+fg nano
+ps
+kill -9 3562 3689
+ps
+nano
+ps
+jobs
+vim
+jobs
+nano
+jobs
+fg 2
+fg
+ps
+jobs
+kill nano
+yes > /dev/null
+cat /dev/null
+yes > /dev/null
+ps
+fg 3
+ps -a
+fg 3
+yes > /dev/null&
+fg 3
+ps
+kill -9 3729 3740
+ps
+fg 2
+kill -9 3697
+ps
+pstree
+nano
+pstree -c kovarik
+top
+htop
+fuser 
+fuser -v
+fuser -v.
+fuser -v .
+mkdir tudas
+mkdir jarmu
+pwd
+cd /
+cd ~/otthoni/jarmu/
+mkdir Citroen Daewoo Fiat Ford Lada Mercedes Nissan Opel Peugeot
+pwd
+cd /
+cd ~
+cd /~
+cd /home
+cd /etc
+cd ..
+dir
+ls
+tree
+ls
+ls -l
+ls /var/log -l
+cd ~/otthoni/
+mkdir Teszt
+mkdir Teszt/ T1 T2
+cd Teszt
+cd ..
+ls
+rm -r T1 T2
+ls
+cd Teszt/
+mkdir T1 T2
+tree
+mkdir -p Unix/Linux/Debian
+tree
+mv Unix/Linux/Debian/ Unix/Linux/Deb
+tree
+mv Unix/Linux/Deb T1/
+tree
+rm -r T1
+tree
+cd ..
+rm -r Teszt/
+ls
+ls /etc -l
+ls /
+ls  / -l
+ls  / -la
+lstree /
+tree /
+ls
+mkdir -p gyakorlat/Proba/test/unix
+mkdir -p gyakorlat/Proba/Linux
+mkdir -p gyakorlat/Check/Tmp
+tree
+cd /etc
+tree
+tree dir
+dir tree
+ls
+dirtree
+treedir
+tree dir
+tree
+tree --help
+tree -d
+cp -r /etc/passwd ~/otthoni/gyakorlat/Proba/ 
+cp -r /etc/shadow ~/otthoni/gyakorlat/Proba/test/ 
+sudo cp -r /etc/shadow ~/otthoni/gyakorlat/Proba/test/ 
+ls *.conf
+cp -r /etc/*.conf ~/otthoni/gyakorlat/Proba/Linux/
+cd ~/otthoni/
+tree
+mv gyakorlat/Proba/test/* gyakorlat/Proba/Linux/
+tree
+touch adatok.txt ~/otthoni/gyakorlat/Check/
+tree
+rm adatok.txt 
+touch adatok.txt > ~/otthoni/gyakorlat/Check/
+cat adatok.txt > ~/otthoni/gyakorlat/Check/
+cd gyakorlat/Check/
+touch adatok.txt
+rm ~/otthoni/gyakorlat/Proba/Linux/
+rm ~/otthoni/gyakorlat/Proba/Linux/*
+cd ~/otthoni/
+ls
+rm -r gyakorlat/Proba
+tree
+cat /etc/passwd
+cat /etc/passwd | less
+less /etc/passwd
+ls
+cd ..
+rm -r otthoni/
+ls
+mkdir otthoni
+cd otthoni/
+mkdir Test
+chmod Test 730
+chmod ~/otthoni/Test 730
+chmod --help
+chmod -r Test 730
+ls
+chmod -r 730 Test
+chmod 730 Test
+ls -l
+chown kovarik
+chown Test kovarik
+chown kovarik Test
+chmod 644 Test
+ls -l
+chmod 646 Test
+mkdir Kozos
+chmod 777  Kozos
+ls -l
+w
+cat ps -ef
+ps -ef
+cat ps -ef > users.txt
+ps -ef > users.txt
+cat users.txt 
+echo $PATH
+cat /etc/passwd | grep sh
+cat /etc/passwd | grep ^sh
+cat /etc/passwd | grep "sh
+history
+history > kuldes.txt
+cat kuldes.txt 
+grep --help
+cat /etc/passwd | grep include=sh
+cat /etc/passwd 
+grep man
+grep --man
+grep -man
+grep manual
+grep --help
+cat /etc/passwd | grep -i sh
+cat /etc/passwd | grep -e sh
+cat /etc/passwd | grep [^sh]
+cat /etc/passwd | grep [^"sh"]
+cat /etc/passwd | grep ^[sh]
+cat /etc/passwd | grep -v sh
+cat /etc/passwd | grep -l sh *
+cat /etc/passwd | grep "^k$"
+cat /etc/passwd | grep "^k"
+cat /etc/passwd | grep "k$"
+cat /etc/passwd | grep "$k"
+cat /etc/passwd | grep "^$"
+ls
+cd ..
+rm -r otthoni/
+ls
+mkdir otthoni
+cd otthoni/
+mkdir feladat2
+cd feladat2/
+touch ures.txt
+echo "Ez nem üres fájl!" > nemures.txt
+ls
+cat nemures.txt 
+mkdir linkek
+mv ures.txt uresfajl.txt 
+ls
+ln nemures.txt ./linkek/
+tree
+cat ./linkek/nemures.txt 
+ln -s ures.txt 
+tree
+stat
+stat .
+rm linkek/nemures.txt 
+rm uresfajl.txt 
+tree
+cat /etc/passwd
+cat /etc/passwd | grep ^f
+cat /etc/passwd | grep ^[f]
+cat /etc/passwd | grep [^f]
+cat /etc/passwd | grep ^"f"
+cat /etc/passwd | grep [^f]
+cat /etc/passwd | grep '^f'
+cat /etc/passwd | grep "^f"
+cat /etc/passwd | grep -e "^f"
+cat /etc/passwd | wc -l
+cat /etc/passwd | wc 
+cat /etc/passwd | grep f
+cat /etc/passwd | grep ^s
+cat /etc/passwd | grep "sh"
+cat /etc/passwd | grep ^r
+cat /etc/passwd | grep false$
+cat /etc/passwd | grep ^k
+cat /etc/passwd | grep -d " " f1
+cat /etc/passwd | grep -d " " -f1
+cat /etc/passwd | grep -d " " 
+cat /etc/passwd | grep -f1 -d " " 
+cat /etc/passwd | cut -d " " 
+cat /etc/passwd | cut -f1 -d " " 
+cat /etc/passwd
+cat /etc/passwd | cut -f1 -d ":" 
+cat /etc/passwd | cut -f1 -d ":" | grep root
+cat /etc/passwd
+cat /etc/passwd | /bin/bash$
+cat /etc/passwd | grep /bin/bash$
+cat /etc/passwd | grep -e /bin/bash$
+cat /etc/passwd | grep -v /bin/bash$
+cat /etc/passwd | grep -v /bin/bash$ | wc -l
+cat /etc/passwd | grep -v /bin/bash$ | 
+cat /etc/passwd | grep -v /bin/bash$ 
+cat /etc/passwd | grep -v /bin/bash$ | head
+cat /etc/passwd | grep -v /bin/bash$ | head -n 30
+cat /etc/passwd | grep -v /bin/bash$ | 
+cat /etc/passwd | grep -v /bin/bash$ |-n 30-35
+cat /etc/passwd | grep -v /bin/bash$ | head -n 30 | cut -f3-4 -d ":"
+5
+cat /etc/passwd | grep -v /bin/bash$ | head -n 30 | cut -f3-5 -d ":"
+cd ~/lambda_prog/Projekt/Lambda-City/
+ls
+node menu.js 
+killall mpg321
+node menu.js 
+cd ~/otthoni/
+locate grepTest.txt
+mv /home/kovarik/Letöltések/grepTest.txt ~/otthoni/
+cat grepTest.txt 
+cat grepTest.txt | grep -i sor
+cat grepTest.txt | grep -i [0-9] & ./
+cat grepTest.txt | grep -i [0-9] && ./
+cat grepTest.txt | grep -i [0-9] & /.
+cat grepTest.txt | grep -i [0-9] & .\
+cat grepTest.txt | grep -i [0-9] & \.
+cat grepTest.txt | grep -i [0-9].
+cat grepTest.txt | grep -i [0-9][0-9][0-9][0-9]/.
+cat grepTest.txt | grep -i [0-9][0-9][0-9][0-9]
+cat grepTest.txt | grep -i [0-9][0-9][0-9][0-9] & -v "-"
+cat grepTest.txt | grep -i [0-9]| grep -v "-"
+cat grepTest.txt | grep ^Ez
+cat grepTest.txt | grep ^Ez & sor$
+cat grepTest.txt | grep ^"Ez" & "sor"$
+cat grepTest.txt | grep ^"Ez" | grep "sor"$
+cat grepTest.txt | grep ^"Ez" "sor"$
+cat grepTest.txt | grep ^"Ez
+cat grepTest.txt | grep ^"Ez" & "or"$
+cat grepTest.txt | grep "sor"$
+cat grepTest.txt | grep sor$
+cat grepTest.txt | grep sor $
+cat grepTest.txt | grep "sor" $
+cat grepTest.txt | grep "sor$"
+cat grepTest.txt
+cat grepTest.txt | grep "o$"
+cat grepTest.txt | grep o$
+cat grepTest.txt | grep o $
+cat grepTest.txt | grep ca $
+cat grepTest.txt | grep ca$
+cat grepTest.txt | grep ma
+cat grepTest.txt | grep ma$
+cat grepTest.txt | grep ma $
+cat grepTest.txt | grep ma$
+cat grepTest.txt | grep sor$
+cat grepTest.txt | grep ^"Ez" | grep sor
+cat grepTest.txt | grep ^"Ez" && grep sor
+cat grepTest.txt | grep ^"Ez" & grep sor
+cat grepTest.txt | grep ^"Ez" &  sor
+cat grepTest.txt | grep ^"Ez" &  sor $
+cat grepTest.txt | grep ^"Ez" &  sor$
+cat grepTest.txt | grep sor
+cat grepTest.txt | grep sor & ^"Ez"
+cat grepTest.txt | grep sor && ^"Ez"
+cat grepTest.txt | grep sor
+cat grepTest.txt | grep sor$
+cat grepTest.txt | grep -i [0-9]
+cat grepTest.txt | grep -i [0-9]| grep -i "-"
+cd ~/lambda_prog/Projekt/Lambda-City/
+node menu.js 
+cd ~
+cd otthoni/
+ls
+tree
+cat /etc/passwrd
+cat /etc/passwd
+cat /etc/passwd head
+cat /etc/passwd | head
+cat /etc/passwd | head | cut -f4-5 -d ":"
+tree /
+clear
+ls
+cat grepTest.txt 
+cat grepTest.txt | grep ^ a|b|c|d
+cat grepTest.txt | grep ^(a|b|c|d)
+cat grepTest.txt | grep ^a|b|c|d
+cat grepTest.txt | grep ^a|^b|^c|^d
+cat grepTest.txt | grep ^[a,b,c,d]
+cat grepTest.txt | grep ^[a,b,c,d]...
+cat grepTest.txt | grep ^[a,b,c,d]...
+cat grepTest.txt | grep [^[a,b,c,d]...]
+cat grepTest.txt | grep -i "@"
+cat grepTest.txt | grep -i "@" | wc -l
+nano&
+cat&
+top&
+ps -la
+ps -ef
+ps -ef | grep ^ kovarik
+ps -ef | grep ^kovarik
+ps
+ps -l
+ps aux
+ps aux | grep ^kovarik
+ps
+kill -9 mpg321
+killall mpg321
+ps
+fg 6
+fg 5
+ps -a
+fg 5
+top
+top&
+ps
+fg 5
+clear
+cd otthoni/
+ls
+ps
+top&
+fg1
+fg 1
+top
+top&
+nano&
+vim&
+cat&
+ps
+fg 2
+ps
+fg 2
+fg 3
+fg 4
+fg 1
+top
+ps
+kill -9 9743 9744 9745
+ps
+pstree
+pstree /
+/ pstree
+/home pstree
+pstree /home
+pstree ./
+./ pstree
+pstree
+ps ax
+ps aux
+pstree
+systemctl
+systemctl -t service
+jobs
+top&
+htop&
+jobs
+fg 1
+jobs
+fg2
+fg 2
+jobs
+pstree root
+ps -ef
+ps -o
+ps -f
+ps ax -f
+ps axf
+ps axf root
+ps axu
+cd otthoni/
+mkdir js
+cd js
+code .
+node file3.js 
+node file1.js 
+ps axu
+node file1.js 
+node file2.js 
+node file3.js 
+node file2.js 
+node file3.js 
+node file2.js 
+node file3.js 
+cd otthoni/
+ls
+cd js
+ls
+code .
+node project2.js 
+node vmi.js 
+node metszet.js 
+node szetvalogatas.js 
+mkdir szakaszzaro
+cd szakaszzaro/
+touch szakaszzaro_feladat
+echo "HELLO" > szakaszzaro_feladat 
+cat szakaszzaro_feladat 
+mv szakaszzaro_feladat feladat
+ls
+cat feladat 
+cp -P feladat feladat2
+ls
+rm feladat2
+ls
+cat feladat 
+cat /var/log/syslog
+cat /var/log/syslog | grep -i "Network Manager"
+cat /var/log/syslog | grep -i "Network Manager" >> feladat 
+cat feladat 
+cat ~/.bash_history
+cd ~
+cat ~/.bash_history
+history
+cd szakaszzaro/
+cat ~/.bash_history > bash_history.txt
+history > history.txt
+ls
+git init
+git clone git@github.com:kovarik85/Linux-teszt.git
+git status
+cp -P feladat ~/szakaszzaro/Linux-teszt/
+cp -P bash_history.txt ~/szakaszzaro/Linux-teszt/
+cp -P history.txt ~/szakaszzaro/Linux-teszt/
+cd Linux-teszt/
+ls
+git status
+git add .

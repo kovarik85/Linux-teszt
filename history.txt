@@ -1,0 +1,1000 @@
+ 1024  killall mpg321
+ 1025  node main.js
+ 1026  killall mpg321
+ 1027  node main.js
+ 1028  killall mpg321
+ 1029  node main.js
+ 1030  killall mpg321
+ 1031  node main.js
+ 1032  killall mpg321
+ 1033  node main.js
+ 1034  killall mpg321
+ 1035  mpg321 stop man
+ 1036  mpg321 --stop man
+ 1037  mpg321 man
+ 1038  mpg321 
+ 1039  node main.js
+ 1040  killall mpg321
+ 1041  cat GAIN  command
+ 1042  cat /usr/share/doc/mpg321/README.remote
+ 1043  node main.js
+ 1044  killall mpg321
+ 1045  node main.js
+ 1046  killall mpg321
+ 1047  node main.js
+ 1048  killall mpg321
+ 1049  node main.js
+ 1050  killall mpg321
+ 1051  node main.js
+ 1052  killall mpg321
+ 1053  node main.js
+ 1054  killall mpg321
+ 1055  node main.js
+ 1056  killall mpg321
+ 1057  node main.js
+ 1058  killall mpg321
+ 1059  node main.js
+ 1060  killall mpg321
+ 1061  node main.js
+ 1062  killall mpg321
+ 1063  node main.js
+ 1064  killall mpg321
+ 1065  node main.js
+ 1066  cd Lambda-City/tanker/Lambda-City/
+ 1067  node main.js 
+ 1068  node sound.js 
+ 1069  node main.js 
+ 1070  cd Lambda-City/tanker/Lambda-City/
+ 1071  node main.js 
+ 1072  killall mpg321
+ 1073  git status
+ 1074  git add dead.mp3 
+ 1075  git add hit.mp3 
+ 1076  git commit -m "new sounds"
+ 1077  git push
+ 1078  git fetch
+ 1079  git status
+ 1080  git pull
+ 1081  git commit -m "mentes"
+ 1082  git add .
+ 1083  git status
+ 1084  git commit -m "mentes"
+ 1085  git log
+ 1086  git push origin a392aa6ead3adbc0a150f070e908cb500722c1a0:main
+ 1087  git pull
+ 1088  git add .
+ 1089  git commit
+ 1090  git push origin a392aa6ead3adbc0a150f070e908cb500722c1a0:main
+ 1091  git pull
+ 1092  git checkout a392aa6ead3adbc0a150f070e908cb500722c1a0ű
+ 1093  git checkout a392aa6ead3adbc0a150f070e908cb500722c1a0
+ 1094  git pull
+ 1095  git branch
+ 1096  git checkout main
+ 1097  git rebase -i
+ 1098  git rebase --abortű
+ 1099  git rebase --abort
+ 1100  git status
+ 1101  cd ..
+ 1102  cd ~
+ 1103  cd lambda_prog/Projekt/
+ 1104  git clone git@github.com:flowacademyhu/Lambda-City.git
+ 1105  git status
+ 1106  cd ..
+ 1107  cd Projekt/
+ 1108  ls
+ 1109  cd Lambda-City/
+ 1110  ls
+ 1111  git status
+ 1112  git add.
+ 1113  git add .
+ 1114  git commit -m "uj zenek"
+ 1115  git push
+ 1116  node main.js
+ 1117  cd ~
+ 1118  cd Lambda-City/tanker/Lambda-City/
+ 1119  node main.js
+ 1120  cd ~
+ 1121  cd lambda_prog/Projekt/Lambda-City/
+ 1122  ls
+ 1123  node main.js 
+ 1124  npm i table
+ 1125  node main.js 
+ 1126  npm i mpg321
+ 1127  node menu.js 
+ 1128  npm i terminal-kit
+ 1129  node menu.js 
+ 1130  npm i cfonts
+ 1131  node menu.js 
+ 1132  git status
+ 1133  git pull
+ 1134  git add .
+ 1135  git commit -m "menu zene"
+ 1136  git push
+ 1137  git pull
+ 1138  node main.js 
+ 1139  node menu.js
+ 1140  node main.js 
+ 1141  node menu.js
+ 1142  killall321
+ 1143  killall 321
+ 1144  killall mpg321
+ 1145  node menu.js
+ 1146  killall mpg321
+ 1147  node menu.js
+ 1148  node main.js 
+ 1149  killall mpg321
+ 1150  node main.js 
+ 1151  killall mpg321
+ 1152  node main.js 
+ 1153  killall mpg321
+ 1154  node menu.js
+ 1155  killall mpg321
+ 1156  node menu.js
+ 1157  node main.js 
+ 1158  node menu.js
+ 1159  killall mpg321
+ 1160  node menu.js
+ 1161  killall mpg321
+ 1162  node menu.js
+ 1163  killall mpg321
+ 1164  node menu.js
+ 1165  killall mpg321
+ 1166  node menu.js
+ 1167  cd lambda_prog/Projekt/Lambda-City/
+ 1168  node menu.js
+ 1169  killall mpg321
+ 1170  node menu.js
+ 1171  killall mpg321
+ 1172  node menu.js
+ 1173  clear
+ 1174  process.exit
+ 1175  killall mpg321
+ 1176  node menu.js
+ 1177  killall mpg321
+ 1178  node menu.js
+ 1179  killall mpg321
+ 1180  node menu.js
+ 1181  killall mpg321
+ 1182  node menu.js
+ 1183  killall mpg321
+ 1184  node menu.js
+ 1185  killall mpg321
+ 1186  node menu.js
+ 1187  git status
+ 1188  git add .
+ 1189  git commit -m "sound working"
+ 1190  git push
+ 1191  git pull
+ 1192  git push
+ 1193  htop
+ 1194  git pull
+ 1195  cd lambda_prog/Projekt/Lambda-City/
+ 1196  ls
+ 1197  git pull
+ 1198  git branch
+ 1199  git init
+ 1200  git pull git@github.com:flowacademyhu/Lambda-City.git
+ 1201  git fetch
+ 1202  git status
+ 1203  code .
+ 1204  node menu.js
+ 1205  killall mpg321
+ 1206  node menu.js
+ 1207  killall mpg321
+ 1208  node menu.js
+ 1209  killall mpg321
+ 1210  node menu.js
+ 1211  killall mpg321
+ 1212  node menu.js
+ 1213  killall mpg321
+ 1214  node menu.js
+ 1215  killall mpg321
+ 1216  node menu.js
+ 1217  killall mpg321
+ 1218  node menu.js
+ 1219  killall mpg321
+ 1220  node menu.js
+ 1221  killall mpg321
+ 1222  node menu.js
+ 1223  killall mpg321
+ 1224  node menu.js
+ 1225  git status
+ 1226  git add .
+ 1227  git commit -m "sound stops"
+ 1228  goit push
+ 1229  git push
+ 1230  node menu.js
+ 1231  cd lambda_prog/Projekt/Lambda-City/
+ 1232  node menu.js
+ 1233  killall mpg321
+ 1234  node menu.js
+ 1235  killall mpg321
+ 1236  node menu.js
+ 1237  git add .
+ 1238  git commit -m "exit sound off"
+ 1239  git push
+ 1240  htop
+ 1241  cd gyakorlat/
+ 1242  git init
+ 1243  git clone git@github.com:kovarik85/probaRepo.git
+ 1244  cd probaRepo/
+ 1245  ls
+ 1246  cat README.md 
+ 1247  q
+ 1248  vim README.md 
+ 1249  cat README.md 
+ 1250  git status
+ 1251  git add .
+ 1252  git status
+ 1253  git pull
+ 1254  git commit -m "első mentésem"
+ 1255  git pull
+ 1256  vim README.md 
+ 1257  git push
+ 1258  git pull
+ 1259  git status
+ 1260  vim README.md 
+ 1261  git add .
+ 1262  git commit -m "merge után"
+ 1263  git push
+ 1264  vim README.md 
+ 1265  git add .
+ 1266  git commit -m "töröltem"
+ 1267  git push
+ 1268  git log
+ 1269  git pull
+ 1270  git status
+ 1271  vim README.md 
+ 1272  git pull
+ 1273  git add .
+ 1274  git status 
+ 1275  git commit -m "most válik el"
+ 1276  git push
+ 1277  git pull
+ 1278  vim README.md 
+ 1279  git add .
+ 1280  git commit -m "végső"
+ 1281  git push
+ 1282  touch new.txt
+ 1283  git push
+ 1284  ls
+ 1285  git status
+ 1286  git add .
+ 1287  git commit -m "newfile"
+ 1288  git push
+ 1289  git checkout -b Kr
+ 1290  git add .
+ 1291  git status
+ 1292  git push
+ 1293  touch new2.txt
+ 1294  git add .
+ 1295  git commit -m "ide is egy új fájl"
+ 1296  git push
+ 1297  git push -u origin/Kr
+ 1298  git push -u origin/ Kr
+ 1299  git -u origin Kr
+ 1300  git push -u origin Kr
+ 1301  git status
+ 1302  ls
+ 1303  vim new.txt 
+ 1304  vim new2.txt 
+ 1305  git status
+ 1306  git add new.txt 
+ 1307  git status
+ 1308  git commit -m "csak az new"
+ 1309  git pull
+ 1310  vim next.txt
+ 1311  vim new.txt
+ 1312  vim new2.txt 
+ 1313  git status
+ 1314  git add .
+ 1315  git commit -m "new2"
+ 1316  git pull
+ 1317  vim new2.txt 
+ 1318  git add .
+ 1319  git commit -m "javítva"
+ 1320  git push
+ 1321  ls
+ 1322  cd gyakorlat/
+ 1323  ls
+ 1324  cd ..
+ 1325  mkdir otthoni
+ 1326  cd otthoni/
+ 1327  touch file1
+ 1328  rm file1 
+ 1329  touch file1.txt
+ 1330  mv file1.txt file2.txt
+ 1331  ls
+ 1332  mv file2.txt file1.txt
+ 1333  ls
+ 1334  echo > "valami"
+ 1335  cat file1.txt 
+ 1336  echo > "valami" file1.txt 
+ 1337  cat file1.txt 
+ 1338  echo "valami" > file1.txt 
+ 1339  cat file1.txt 
+ 1340  cat < file1.txt > file2.txt
+ 1341  ls
+ 1342  cat file2.txt 
+ 1343  cat valami 
+ 1344  rm
+ 1345  rm -a
+ 1346  rm --help
+ 1347  rm all
+ 1348  rm -all
+ 1349  rm --a
+ 1350  rm --all
+ 1351  rm valami 
+ 1352  rm file1.txt 
+ 1353  rm file2.txt 
+ 1354  touch file1.txt
+ 1355  echo "valami szöveg" > file1.txt 
+ 1356  ls
+ 1357  cat file1.txt 
+ 1358  cat file1.txt  > file2.txt 
+ 1359  ls
+ 1360  cat file2.txt 
+ 1361  mkdir ize
+ 1362  touch ize/file3.txt
+ 1363  ls
+ 1364  cd ize/
+ 1365  ls
+ 1366  cat ~/otthoni/file1.txt  > file3.txt 
+ 1367  cat file3.txt 
+ 1368  cd ..
+ 1369  ls
+ 1370  cat file1.txt file2.txt > file3.txt
+ 1371  ls
+ 1372  cat file3.txt 
+ 1373  stat
+ 1374  stat file3.txt 
+ 1375  ln alma > file3.txt 
+ 1376  ln alma file3.txt 
+ 1377  touch gyumolcs.txt
+ 1378  echo gyumolcs.txt 
+ 1379  echo > gyumolcs.txt 
+ 1380  ls
+ 1381  cat gyumolcs.txt 
+ 1382  cat > gyumolcs.txt 
+ 1383  cat gyumolcs.txt 
+ 1384  cat >> gyumolcs.txt 
+ 1385  cat gyumolcs.txt 
+ 1386  cat gyumolcs.txt | sort
+ 1387  cat gyumolcs.txt | sort | uniq
+ 1388  cat >> gyumolcs.txt 
+ 1389  cat gyumolcs.txt | sort | uniq
+ 1390  cat gyumolcs.txt | sort
+ 1391  vim gyumolcs.txt 
+ 1392  cat gyumolcs.txt | sort | uniq
+ 1393  cat >> gyumolcs.txt 
+ 1394  cat gyumolcs.txt | sort | uniq
+ 1395  vim gyumolcs.txt 
+ 1396  cat gyumolcs.txt | sort | uniq
+ 1397  cat gyumolcs.txt | sort
+ 1398  cat gyumolcs.txt | sort | uniq | wc -l
+ 1399  cat gyumolcs.txt | sort | wc -l
+ 1400  touch tanulok.txt
+ 1401  cat > tanulok.txt 
+ 1402  cat tanulok.txt 
+ 1403  cat tanulok.txt | -f2
+ 1404  cat tanulok.txt | cut -f2 
+ 1405  cat tanulok.txt | cut -d -f2 
+ 1406  cat tanulok.txt | cut -d "" -f2 
+ 1407  cat tanulok.txt | cut -f2 -d "" 
+ 1408  cat tanulok.txt | cut -f2 -d 
+ 1409  cat tanulok.txt | cut -c5-22
+ 1410  cat tanulok.txt | cut -22
+ 1411  cat tanulok.txt | cut -c22
+ 1412  cat tanulok.txt | cut -c17-22
+ 1413  cat tanulok.txt | cut -c5-22
+ 1414  cat tanulok.txt | cut -c5-16
+ 1415  cat tanulok.txt | cut -c5-14
+ 1416  cat tanulok.txt | cut -c5-22
+ 1417  cut -f2 < tanulok.txt 
+ 1418  cut -f2 -d: tanulok.txt 
+ 1419  cut -f2 -d : tanulok.txt 
+ 1420  cat tanulok.txt | cut -d " " -f2 
+ 1421  cat tanulok.txt | cut -d " " -f2-3 
+ 1422  sort < gyumolcs.txt 
+ 1423  sort -r gyumolcs.txt 
+ 1424  ln gyumolcs.txt 
+ 1425  ln fak.txt gyumolcs.txt 
+ 1426  ln fak.txt >  gyumolcs.txt 
+ 1427  ln fak.txt <  gyumolcs.txt 
+ 1428  cat tanulok.txt | cut -d " " -f2 
+ 1429  cat tanulok.txt | cut -d " " -f2-3 
+ 1430  cat tanulok.txt | cut -d " " -f2-3 | rev
+ 1431  pwd
+ 1432  mkdir elso masodik harmadik
+ 1433  ls
+ 1434  rm elso masodik harmadik
+ 1435  rmdir elso masodik harmadik
+ 1436  ls
+ 1437  mkdir -p elso/masodik/harmadik
+ 1438  ls
+ 1439  cd elso/
+ 1440  ls
+ 1441  cd masodik/
+ 1442  ls
+ 1443  cd harmadik/
+ 1444  cd ~/otthoni/
+ 1445  mkdir elso/masodik/harmadik
+ 1446  ls
+ 1447  rmdir elso/
+ 1448  rmdir -r  elso/
+ 1449  rm -r elso
+ 1450  ls
+ 1451  mkdir -p elso/masodik/harmadik
+ 1452  ls
+ 1453  ls tree
+ 1454  lstree
+ 1455  tree
+ 1456  rm -r elso
+ 1457  ls
+ 1458  tre
+ 1459  tree
+ 1460  mkdir -p elso/masodik/harmadik
+ 1461  rmdir elso/masodik/harmadik/
+ 1462  tree
+ 1463  rmdir elso/masodik/harmadik/
+ 1464  rmdir elso/masodik
+ 1465  rmdir elso
+ 1466  tree
+ 1467  mv ize másik
+ 1468  tree
+ 1469  mkdir egyik
+ 1470  cp -P másik egyik
+ 1471  tree
+ 1472  cp -R másik egyik
+ 1473  tree
+ 1474  rm -r egyik
+ 1475  mkdir egyik
+ 1476  cp -R másik/file3.txt egyik
+ 1477  tree
+ 1478  rm -r egyik
+ 1479  mkdir egyik
+ 1480  cp -R másik/ egyik
+ 1481  tree
+ 1482  rm -r egyik
+ 1483  cp -R másik/ . egyik
+ 1484  mkdir egyik
+ 1485  cp -R másik/ . egyik
+ 1486  cp -R másik/. egyik
+ 1487  tree
+ 1488  rm -r egyik
+ 1489  mkdir egyik
+ 1490  cp -R másik/* egyik
+ 1491  tree
+ 1492  cd másik/
+ 1493  touch fájl1.txt
+ 1494  touch fájl2.txt
+ 1495  touch fájl4.txt
+ 1496  touch fájl5.txt
+ 1497  cp -R másik/* egyik
+ 1498  tree
+ 1499  cd.. 
+ 1500  cd ..
+ 1501  tree
+ 1502  cp -R másik/* egyik
+ 1503  tree
+ 1504  cp -R másik/* harmadik
+ 1505  cp -R másik harmadik
+ 1506  tree
+ 1507  env
+ 1508  cat .bash_history
+ 1509  cat /.bash_history
+ 1510  cat ~/.bash_history
+ 1511  cat ~/otthoni/.bash_history
+ 1512  cat //.bash_history
+ 1513  cat root/.bash_history
+ 1514  clear ~/.bash_history
+ 1515  history
+ 1516  clear history
+ 1517  history | less
+ 1518  /usr/bin/gcc -o main main.c
+ 1519  ls /usr/bin/
+ 1520  locate gcc
+ 1521  locate gcc /usr/bin/
+ 1522  echo $PATH
+ 1523  /sbin/ifconfig 
+ 1524  ifconfig
+ 1525  vim /home/kovarik/.bashrc 
+ 1526  vim .bashrc
+ 1527  ls
+ 1528  vim bash.txt
+ 1529  ls
+ 1530  rm bash.txt 
+ 1531  ls
+ 1532  cd ..
+ 1533  vim .bashrc
+ 1534  cd otthoni/
+ 1535  claudius:~$ cat &
+ 1536  cd ..
+ 1537  cd bin/
+ 1538  ls
+ 1539  cd ~/otthoni/
+ 1540  cat /proc/sys/kernel/pid_max
+ 1541  ulimit -u
+ 1542  ps
+ 1543  nano&
+ 1544  mcedit&
+ 1545  vim&
+ 1546  ps
+ 1547  vim &
+ 1548  ps
+ 1549  fg 4
+ 1550  ps
+ 1551  fg 3
+ 1552  ps
+ 1553  vim&
+ 1554  ps a
+ 1555  w
+ 1556  ps ax
+ 1557  ps ax -f
+ 1558  ps axf
+ 1559  ps axu
+ 1560  ps u
+ 1561  ps au
+ 1562  ps axu
+ 1563  -ef
+ 1564  ps -ef
+ 1565  kill -9 3595
+ 1566  ps -ef
+ 1567  kill -l
+ 1568  nano
+ 1569  fg nano
+ 1570  ps
+ 1571  kill -9 3562 3689
+ 1572  ps
+ 1573  nano
+ 1574  ps
+ 1575  jobs
+ 1576  vim
+ 1577  jobs
+ 1578  nano
+ 1579  jobs
+ 1580  fg 2
+ 1581  fg
+ 1582  ps
+ 1583  jobs
+ 1584  kill nano
+ 1585  yes > /dev/null
+ 1586  cat /dev/null
+ 1587  yes > /dev/null
+ 1588  ps
+ 1589  fg 3
+ 1590  ps -a
+ 1591  fg 3
+ 1592  yes > /dev/null&
+ 1593  fg 3
+ 1594  ps
+ 1595  kill -9 3729 3740
+ 1596  ps
+ 1597  fg 2
+ 1598  kill -9 3697
+ 1599  ps
+ 1600  pstree
+ 1601  nano
+ 1602  pstree -c kovarik
+ 1603  top
+ 1604  htop
+ 1605  fuser 
+ 1606  fuser -v
+ 1607  fuser -v.
+ 1608  fuser -v .
+ 1609  mkdir tudas
+ 1610  mkdir jarmu
+ 1611  pwd
+ 1612  cd /
+ 1613  cd ~/otthoni/jarmu/
+ 1614  mkdir Citroen Daewoo Fiat Ford Lada Mercedes Nissan Opel Peugeot
+ 1615  pwd
+ 1616  cd /
+ 1617  cd ~
+ 1618  cd /~
+ 1619  cd /home
+ 1620  cd /etc
+ 1621  cd ..
+ 1622  dir
+ 1623  ls
+ 1624  tree
+ 1625  ls
+ 1626  ls -l
+ 1627  ls /var/log -l
+ 1628  cd ~/otthoni/
+ 1629  mkdir Teszt
+ 1630  mkdir Teszt/ T1 T2
+ 1631  cd Teszt
+ 1632  cd ..
+ 1633  ls
+ 1634  rm -r T1 T2
+ 1635  ls
+ 1636  cd Teszt/
+ 1637  mkdir T1 T2
+ 1638  tree
+ 1639  mkdir -p Unix/Linux/Debian
+ 1640  tree
+ 1641  mv Unix/Linux/Debian/ Unix/Linux/Deb
+ 1642  tree
+ 1643  mv Unix/Linux/Deb T1/
+ 1644  tree
+ 1645  rm -r T1
+ 1646  tree
+ 1647  cd ..
+ 1648  rm -r Teszt/
+ 1649  ls
+ 1650  ls /etc -l
+ 1651  ls /
+ 1652  ls  / -l
+ 1653  ls  / -la
+ 1654  lstree /
+ 1655  tree /
+ 1656  ls
+ 1657  mkdir -p gyakorlat/Proba/test/unix
+ 1658  mkdir -p gyakorlat/Proba/Linux
+ 1659  mkdir -p gyakorlat/Check/Tmp
+ 1660  tree
+ 1661  cd /etc
+ 1662  tree
+ 1663  tree dir
+ 1664  dir tree
+ 1665  ls
+ 1666  dirtree
+ 1667  treedir
+ 1668  tree dir
+ 1669  tree
+ 1670  tree --help
+ 1671  tree -d
+ 1672  cp -r /etc/passwd ~/otthoni/gyakorlat/Proba/ 
+ 1673  cp -r /etc/shadow ~/otthoni/gyakorlat/Proba/test/ 
+ 1674  sudo cp -r /etc/shadow ~/otthoni/gyakorlat/Proba/test/ 
+ 1675  ls *.conf
+ 1676  cp -r /etc/*.conf ~/otthoni/gyakorlat/Proba/Linux/
+ 1677  cd ~/otthoni/
+ 1678  tree
+ 1679  mv gyakorlat/Proba/test/* gyakorlat/Proba/Linux/
+ 1680  tree
+ 1681  touch adatok.txt ~/otthoni/gyakorlat/Check/
+ 1682  tree
+ 1683  rm adatok.txt 
+ 1684  touch adatok.txt > ~/otthoni/gyakorlat/Check/
+ 1685  cat adatok.txt > ~/otthoni/gyakorlat/Check/
+ 1686  cd gyakorlat/Check/
+ 1687  touch adatok.txt
+ 1688  rm ~/otthoni/gyakorlat/Proba/Linux/
+ 1689  rm ~/otthoni/gyakorlat/Proba/Linux/*
+ 1690  cd ~/otthoni/
+ 1691  ls
+ 1692  rm -r gyakorlat/Proba
+ 1693  tree
+ 1694  cat /etc/passwd
+ 1695  cat /etc/passwd | less
+ 1696  less /etc/passwd
+ 1697  ls
+ 1698  cd ..
+ 1699  rm -r otthoni/
+ 1700  ls
+ 1701  mkdir otthoni
+ 1702  cd otthoni/
+ 1703  mkdir Test
+ 1704  chmod Test 730
+ 1705  chmod ~/otthoni/Test 730
+ 1706  chmod --help
+ 1707  chmod -r Test 730
+ 1708  ls
+ 1709  chmod -r 730 Test
+ 1710  chmod 730 Test
+ 1711  ls -l
+ 1712  chown kovarik
+ 1713  chown Test kovarik
+ 1714  chown kovarik Test
+ 1715  chmod 644 Test
+ 1716  ls -l
+ 1717  chmod 646 Test
+ 1718  mkdir Kozos
+ 1719  chmod 777  Kozos
+ 1720  ls -l
+ 1721  w
+ 1722  cat ps -ef
+ 1723  ps -ef
+ 1724  cat ps -ef > users.txt
+ 1725  ps -ef > users.txt
+ 1726  cat users.txt 
+ 1727  echo $PATH
+ 1728  cat /etc/passwd | grep sh
+ 1729  cat /etc/passwd | grep ^sh
+ 1730  cat /etc/passwd | grep "sh
+ 1731  history
+ 1732  history > kuldes.txt
+ 1733  cat kuldes.txt 
+ 1734  grep --help
+ 1735  cat /etc/passwd | grep include=sh
+ 1736  cat /etc/passwd 
+ 1737  grep man
+ 1738  grep --man
+ 1739  grep -man
+ 1740  grep manual
+ 1741  grep --help
+ 1742  cat /etc/passwd | grep -i sh
+ 1743  cat /etc/passwd | grep -e sh
+ 1744  cat /etc/passwd | grep [^sh]
+ 1745  cat /etc/passwd | grep [^"sh"]
+ 1746  cat /etc/passwd | grep ^[sh]
+ 1747  cat /etc/passwd | grep -v sh
+ 1748  cat /etc/passwd | grep -l sh *
+ 1749  cat /etc/passwd | grep "^k$"
+ 1750  cat /etc/passwd | grep "^k"
+ 1751  cat /etc/passwd | grep "k$"
+ 1752  cat /etc/passwd | grep "$k"
+ 1753  cat /etc/passwd | grep "^$"
+ 1754  ls
+ 1755  cd ..
+ 1756  rm -r otthoni/
+ 1757  ls
+ 1758  mkdir otthoni
+ 1759  cd otthoni/
+ 1760  mkdir feladat2
+ 1761  cd feladat2/
+ 1762  touch ures.txt
+ 1763  echo "Ez nem üres fájl!" > nemures.txt
+ 1764  ls
+ 1765  cat nemures.txt 
+ 1766  mkdir linkek
+ 1767  mv ures.txt uresfajl.txt 
+ 1768  ls
+ 1769  ln nemures.txt ./linkek/
+ 1770  tree
+ 1771  cat ./linkek/nemures.txt 
+ 1772  ln -s ures.txt 
+ 1773  tree
+ 1774  stat
+ 1775  stat .
+ 1776  rm linkek/nemures.txt 
+ 1777  rm uresfajl.txt 
+ 1778  tree
+ 1779  cat /etc/passwd
+ 1780  cat /etc/passwd | grep ^f
+ 1781  cat /etc/passwd | grep ^[f]
+ 1782  cat /etc/passwd | grep [^f]
+ 1783  cat /etc/passwd | grep ^"f"
+ 1784  cat /etc/passwd | grep [^f]
+ 1785  cat /etc/passwd | grep '^f'
+ 1786  cat /etc/passwd | grep "^f"
+ 1787  cat /etc/passwd | grep -e "^f"
+ 1788  cat /etc/passwd | wc -l
+ 1789  cat /etc/passwd | wc 
+ 1790  cat /etc/passwd | grep f
+ 1791  cat /etc/passwd | grep ^s
+ 1792  cat /etc/passwd | grep "sh"
+ 1793  cat /etc/passwd | grep ^r
+ 1794  cat /etc/passwd | grep false$
+ 1795  cat /etc/passwd | grep ^k
+ 1796  cat /etc/passwd | grep -d " " f1
+ 1797  cat /etc/passwd | grep -d " " -f1
+ 1798  cat /etc/passwd | grep -d " " 
+ 1799  cat /etc/passwd | grep -f1 -d " " 
+ 1800  cat /etc/passwd | cut -d " " 
+ 1801  cat /etc/passwd | cut -f1 -d " " 
+ 1802  cat /etc/passwd
+ 1803  cat /etc/passwd | cut -f1 -d ":" 
+ 1804  cat /etc/passwd | cut -f1 -d ":" | grep root
+ 1805  cat /etc/passwd
+ 1806  cat /etc/passwd | /bin/bash$
+ 1807  cat /etc/passwd | grep /bin/bash$
+ 1808  cat /etc/passwd | grep -e /bin/bash$
+ 1809  cat /etc/passwd | grep -v /bin/bash$
+ 1810  cat /etc/passwd | grep -v /bin/bash$ | wc -l
+ 1811  cat /etc/passwd | grep -v /bin/bash$ | 
+ 1812  cat /etc/passwd | grep -v /bin/bash$ 
+ 1813  cat /etc/passwd | grep -v /bin/bash$ | head
+ 1814  cat /etc/passwd | grep -v /bin/bash$ | head -n 30
+ 1815  cat /etc/passwd | grep -v /bin/bash$ | 
+ 1816  cat /etc/passwd | grep -v /bin/bash$ |-n 30-35
+ 1817  cat /etc/passwd | grep -v /bin/bash$ | head -n 30 | cut -f3-4 -d ":"
+ 1818  5
+ 1819  cat /etc/passwd | grep -v /bin/bash$ | head -n 30 | cut -f3-5 -d ":"
+ 1820  cd ~/lambda_prog/Projekt/Lambda-City/
+ 1821  ls
+ 1822  node menu.js 
+ 1823  killall mpg321
+ 1824  node menu.js 
+ 1825  cd ~/otthoni/
+ 1826  locate grepTest.txt
+ 1827  mv /home/kovarik/Letöltések/grepTest.txt ~/otthoni/
+ 1828  cat grepTest.txt 
+ 1829  cat grepTest.txt | grep -i sor
+ 1830  cat grepTest.txt | grep -i [0-9] & ./
+ 1831  cat grepTest.txt | grep -i [0-9] && ./
+ 1832  cat grepTest.txt | grep -i [0-9] & /.
+ 1833  cat grepTest.txt | grep -i [0-9] & .\
+ 1834  cat grepTest.txt | grep -i [0-9] & \.
+ 1835  cat grepTest.txt | grep -i [0-9].
+ 1836  cat grepTest.txt | grep -i [0-9][0-9][0-9][0-9]/.
+ 1837  cat grepTest.txt | grep -i [0-9][0-9][0-9][0-9]
+ 1838  cat grepTest.txt | grep -i [0-9][0-9][0-9][0-9] & -v "-"
+ 1839  cat grepTest.txt | grep -i [0-9]| grep -v "-"
+ 1840  cat grepTest.txt | grep ^Ez
+ 1841  cat grepTest.txt | grep ^Ez & sor$
+ 1842  cat grepTest.txt | grep ^"Ez" & "sor"$
+ 1843  cat grepTest.txt | grep ^"Ez" | grep "sor"$
+ 1844  cat grepTest.txt | grep ^"Ez" "sor"$
+ 1845  cat grepTest.txt | grep ^"Ez
+ 1846  cat grepTest.txt | grep ^"Ez" & "or"$
+ 1847  cat grepTest.txt | grep "sor"$
+ 1848  cat grepTest.txt | grep sor$
+ 1849  cat grepTest.txt | grep sor $
+ 1850  cat grepTest.txt | grep "sor" $
+ 1851  cat grepTest.txt | grep "sor$"
+ 1852  cat grepTest.txt
+ 1853  cat grepTest.txt | grep "o$"
+ 1854  cat grepTest.txt | grep o$
+ 1855  cat grepTest.txt | grep o $
+ 1856  cat grepTest.txt | grep ca $
+ 1857  cat grepTest.txt | grep ca$
+ 1858  cat grepTest.txt | grep ma
+ 1859  cat grepTest.txt | grep ma$
+ 1860  cat grepTest.txt | grep ma $
+ 1861  cat grepTest.txt | grep ma$
+ 1862  cat grepTest.txt | grep sor$
+ 1863  cat grepTest.txt | grep ^"Ez" | grep sor
+ 1864  cat grepTest.txt | grep ^"Ez" && grep sor
+ 1865  cat grepTest.txt | grep ^"Ez" & grep sor
+ 1866  cat grepTest.txt | grep ^"Ez" &  sor
+ 1867  cat grepTest.txt | grep ^"Ez" &  sor $
+ 1868  cat grepTest.txt | grep ^"Ez" &  sor$
+ 1869  cat grepTest.txt | grep sor
+ 1870  cat grepTest.txt | grep sor & ^"Ez"
+ 1871  cat grepTest.txt | grep sor && ^"Ez"
+ 1872  cat grepTest.txt | grep sor
+ 1873  cat grepTest.txt | grep sor$
+ 1874  cat grepTest.txt | grep -i [0-9]
+ 1875  cat grepTest.txt | grep -i [0-9]| grep -i "-"
+ 1876  cd ~/lambda_prog/Projekt/Lambda-City/
+ 1877  node menu.js 
+ 1878  cd ~
+ 1879  cd otthoni/
+ 1880  ls
+ 1881  tree
+ 1882  cat /etc/passwrd
+ 1883  cat /etc/passwd
+ 1884  cat /etc/passwd head
+ 1885  cat /etc/passwd | head
+ 1886  cat /etc/passwd | head | cut -f4-5 -d ":"
+ 1887  tree /
+ 1888  clear
+ 1889  ls
+ 1890  cat grepTest.txt 
+ 1891  cat grepTest.txt | grep ^ a|b|c|d
+ 1892  cat grepTest.txt | grep ^(a|b|c|d)
+ 1893  cat grepTest.txt | grep ^a|b|c|d
+ 1894  cat grepTest.txt | grep ^a|^b|^c|^d
+ 1895  cat grepTest.txt | grep ^[a,b,c,d]
+ 1896  cat grepTest.txt | grep ^[a,b,c,d]...
+ 1897  cat grepTest.txt | grep ^[a,b,c,d]...
+ 1898  cat grepTest.txt | grep [^[a,b,c,d]...]
+ 1899  cat grepTest.txt | grep -i "@"
+ 1900  cat grepTest.txt | grep -i "@" | wc -l
+ 1901  nano&
+ 1902  cat&
+ 1903  top&
+ 1904  ps -la
+ 1905  ps -ef
+ 1906  ps -ef | grep ^ kovarik
+ 1907  ps -ef | grep ^kovarik
+ 1908  ps
+ 1909  ps -l
+ 1910  ps aux
+ 1911  ps aux | grep ^kovarik
+ 1912  ps
+ 1913  kill -9 mpg321
+ 1914  killall mpg321
+ 1915  ps
+ 1916  fg 6
+ 1917  fg 5
+ 1918  ps -a
+ 1919  fg 5
+ 1920  top
+ 1921  top&
+ 1922  ps
+ 1923  fg 5
+ 1924  clear
+ 1925  cd otthoni/
+ 1926  ls
+ 1927  ps
+ 1928  top&
+ 1929  fg1
+ 1930  fg 1
+ 1931  top
+ 1932  top&
+ 1933  nano&
+ 1934  vim&
+ 1935  cat&
+ 1936  ps
+ 1937  fg 2
+ 1938  ps
+ 1939  fg 2
+ 1940  fg 3
+ 1941  fg 4
+ 1942  fg 1
+ 1943  top
+ 1944  ps
+ 1945  kill -9 9743 9744 9745
+ 1946  ps
+ 1947  pstree
+ 1948  pstree /
+ 1949  / pstree
+ 1950  /home pstree
+ 1951  pstree /home
+ 1952  pstree ./
+ 1953  ./ pstree
+ 1954  pstree
+ 1955  ps ax
+ 1956  ps aux
+ 1957  pstree
+ 1958  systemctl
+ 1959  systemctl -t service
+ 1960  jobs
+ 1961  top&
+ 1962  htop&
+ 1963  jobs
+ 1964  fg 1
+ 1965  jobs
+ 1966  fg2
+ 1967  fg 2
+ 1968  jobs
+ 1969  pstree root
+ 1970  ps -ef
+ 1971  ps -o
+ 1972  ps -f
+ 1973  ps ax -f
+ 1974  ps axf
+ 1975  ps axf root
+ 1976  ps axu
+ 1977  cd otthoni/
+ 1978  mkdir js
+ 1979  cd js
+ 1980  code .
+ 1981  node file3.js 
+ 1982  node file1.js 
+ 1983  ps axu
+ 1984  node file1.js 
+ 1985  node file2.js 
+ 1986  node file3.js 
+ 1987  node file2.js 
+ 1988  node file3.js 
+ 1989  node file2.js 
+ 1990  node file3.js 
+ 1991  cd otthoni/
+ 1992  ls
+ 1993  cd js
+ 1994  ls
+ 1995  code .
+ 1996  node project2.js 
+ 1997  node vmi.js 
+ 1998  node metszet.js 
+ 1999  node szetvalogatas.js 
+ 2000  mkdir szakaszzaro
+ 2001  cd szakaszzaro/
+ 2002  touch szakaszzaro_feladat
+ 2003  echo "HELLO" > szakaszzaro_feladat 
+ 2004  cat szakaszzaro_feladat 
+ 2005  mv szakaszzaro_feladat feladat
+ 2006  ls
+ 2007  cat feladat 
+ 2008  cp -P feladat feladat2
+ 2009  ls
+ 2010  rm feladat2
+ 2011  ls
+ 2012  cat feladat 
+ 2013  cat /var/log/syslog
+ 2014  cat /var/log/syslog | grep -i "Network Manager"
+ 2015  cat /var/log/syslog | grep -i "Network Manager" >> feladat 
+ 2016  cat feladat 
+ 2017  cat ~/.bash_history
+ 2018  cd ~
+ 2019  cat ~/.bash_history
+ 2020  history
+ 2021  cd szakaszzaro/
+ 2022  cat ~/.bash_history > bash_history.txt
+ 2023  history > history.txt
